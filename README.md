@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jesus Villegas-Villanueva
 
-<!--
-**JVillegasVillanueva/JVillegasVillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied mathematician focused on modeling, simulation, and system analysis.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- M.S. in Mathematics (Industrial Mathematics)
+- Strong background in modeling dynamic systems (ODE/PDE)
+- Experience with data-driven modeling and simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- MATLAB (advanced)
+- Mathematical modeling
+- Numerical methods
+- Data analysis and visualization
+
+## 🎯 Current Focus
+- Building simulation-based projects
+- Transitioning into modeling & simulation / systems engineering roles
+
+## 📂 Projects (Coming Soon)
+- Radar Tracking Simulation (MATLAB)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/jesusvillegas2023/
